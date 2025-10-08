@@ -33,7 +33,7 @@ Explore the interactive prototype here 👇
 
 ## 🖼️ Screens Overview  
 
-| 🏠 Home Page | 🍱 Menu Page | 🧾 Order Page | 👤 Login Page |
+| 🏠 Home Page | 🍱 Menu Page | 🧾 Booking | 👤 Login Page |
 |---------------|--------------|----------------|----------------|
 | ![Home](images/home.png) | ![Menu](images/menu.png) | ![Order](images/order.png) | ![Login](images/login.png) |
 
