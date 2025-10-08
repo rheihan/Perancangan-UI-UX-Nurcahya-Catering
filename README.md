@@ -34,16 +34,16 @@ Metode perancangan mengacu pada **Design Thinking**, mencakup tahapan:
 ## 🎨 Tampilan Desain
 
 ### 🏠 Home
-![Home](https://github.com/rheihan/nurcahya-catering-uiux/blob/main/Home.png?raw=true)
+![Home](c:\Users\USER\OneDrive\Documents\gambar\figma catering\Home.png)
 
 ### 🔐 Login
-![Login](https://github.com/rheihan/nurcahya-catering-uiux/blob/main/Login.png?raw=true)
+![Login](c:\Users\USER\OneDrive\Documents\gambar\figma catering\Login.png)
 
 ### 🍱 Menu
-![Menu](https://github.com/rheihan/nurcahya-catering-uiux/blob/main/Menu.png?raw=true)
+![Menu](c:\Users\USER\OneDrive\Documents\gambar\figma catering\Menu.png)
 
 ### 📋 Booking
-![Booking](https://github.com/rheihan/nurcahya-catering-uiux/blob/main/Booking.png?raw=true)
+![Booking](c:\Users\USER\OneDrive\Documents\gambar\figma catering\Booking.png)
 
 ---
 
