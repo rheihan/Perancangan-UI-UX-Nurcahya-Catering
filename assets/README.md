@@ -1,13 +1,13 @@
-# 🍽️ Nurcahya Catering — UI/UX Website Design
+# 🍽️ Catering_PI — UI/UX Website Design
 
-Desain antarmuka website **Nurcahya Catering** ini dibuat sebagai bagian dari penelitian perancangan sistem berbasis web menggunakan metode **Design Thinking**.  
+Desain antarmuka website **Catering_PI** ini dibuat sebagai bagian dari penelitian perancangan sistem berbasis web menggunakan metode **Design Thinking**.  
 Tujuannya adalah untuk menciptakan pengalaman pengguna yang intuitif, informatif, dan efisien dalam melakukan pemesanan catering secara online.
 
 ---
 
 ## ✨ Tentang Proyek
 
-Nurcahya Catering merupakan rancangan website layanan catering yang dirancang untuk:
+Catering_PI merupakan rancangan website layanan catering yang dirancang untuk:
 - Mempermudah pelanggan melakukan pemesanan makanan dan paket acara.
 - Memberikan informasi menu secara visual dengan harga dan deskripsi.
 - Menyediakan fitur login serta sistem verifikasi pengguna.
@@ -25,9 +25,9 @@ Metode perancangan mengacu pada **Design Thinking**, mencakup tahapan:
 ## 🧠 Teknologi dan Tools
 
 - **Figma** — untuk perancangan UI/UX  
-- **HTML, CSS, JavaScript** — sebagai dasar pengembangan web  
+- **HTML, CSS, JavaScript** — dasar pengembangan web  
 - **PHP & SQL** — perencanaan integrasi backend  
-- **React.js** — untuk potensi pengembangan antarmuka dinamis  
+- **React.js** — potensi pengembangan antarmuka dinamis  
 
 ---
 
@@ -49,7 +49,7 @@ Metode perancangan mengacu pada **Design Thinking**, mencakup tahapan:
 
 ## 🔗 Prototipe Figma
 Lihat desain interaktif di Figma:  
-👉 [Nurcahya Catering UI/UX Website](https://www.figma.com/design/vjsxhTNv3GWzWTmiDFu9wo/Catering-pi?node-id=22-1258&t=tFMJ1uZuBYrSL8rT-1)
+👉 [Catering_PI Prototype](https://www.figma.com/design/vjsxhTNv3GWzWTmiDFu9wo/Catering-pi?node-id=22-1258&t=tFMJ1uZuBYrSL8rT-1)
 
 ---
 
